@@ -24,7 +24,7 @@ export function formatShortIsoDate(iso: string | null | undefined): string {
   if (!iso) return "—";
   const d = new Date(`${iso}T00:00:00Z`);
   if (Number.isNaN(d.getTime())) return iso;
-  return d.toLocaleDateString(undefined, {
+  return d.toLocaleDateString("en-GB", {
     year: "numeric",
     month: "short",
     day: "numeric",
