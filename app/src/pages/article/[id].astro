@@ -1,0 +1,46 @@
+---
+import fs from "node:fs";
+import path from "node:path";
+
+import Layout from "../../layouts/Layout.astro";
+import ArticleApp from "../../components/ArticleApp.vue";
+
+const root = process.cwd();
+
+export function getStaticPaths() {
+  // Astro extracts this for prerendering; it must not close over sibling frontmatter variables.
+  const articlesIndexPath = path.join(process.cwd(), "public/data/articles.json");
+  if (!fs.existsSync(articlesIndexPath)) {
+    throw new Error("Missing `public/data/articles.json`. Run `npm run data:generate` first.");
+  }
+
+  const index = JSON.parse(fs.readFileSync(articlesIndexPath, "utf8"));
+  return index.articles.map((a: { id: string }) => ({
+    params: { id: a.id },
+  }));
+}
+
+const { id } = Astro.params;
+const articlePath = path.join(root, "public/data/articles", `${id}.json`);
+
+if (!fs.existsSync(articlePath)) {
+  throw new Error(`Missing generated article JSON for "${id}". Re-run \`npm run data:generate\`.`);
+}
+
+const article = JSON.parse(fs.readFileSync(articlePath, "utf8"));
+const titleFromMeta =
+  typeof article?.meta?.title === "string" ? article.meta.title.trim() : "";
+const title =
+  titleFromMeta.length > 0
+    ? `${articleLabel(article)}: ${titleFromMeta}`
+    : articleLabel(article);
+
+function articleLabel(a: { number: number; suffix: string | null }) {
+  const suf = a.suffix ? `-${String(a.suffix).toUpperCase()}` : "";
+  return `Article ${a.number}${suf}`;
+}
+---
+
+<Layout title={title}>
+  <ArticleApp client:load baseUrl={import.meta.env.BASE_URL} article={article} />
+</Layout>

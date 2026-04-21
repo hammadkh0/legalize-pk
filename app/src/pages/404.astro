@@ -1,0 +1,45 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Page not found">
+  <main id="main" class="notfound">
+    <h1 class="notfound__title">Page not found</h1>
+    <p class="notfound__text">That link may be outdated, or the article id may be incorrect.</p>
+    <p class="notfound__actions">
+      <a class="notfound__link" href={import.meta.env.BASE_URL}>Back to home</a>
+    </p>
+  </main>
+</Layout>
+
+<style>
+  .notfound {
+    max-width: var(--content-max);
+    margin: 0 auto;
+    padding: 3rem 1.25rem;
+  }
+
+  .notfound__title {
+    margin: 0 0 0.75rem;
+    font-family: var(--font-body);
+    font-size: var(--step-4);
+    color: var(--heading);
+  }
+
+  .notfound__text {
+    margin: 0 0 1.25rem;
+    font-size: var(--step-1);
+    color: var(--text-muted);
+    max-width: 60ch;
+    line-height: 1.55;
+  }
+
+  .notfound__actions {
+    margin: 0;
+  }
+
+  .notfound__link {
+    font-weight: 700;
+    font-size: var(--step-1);
+  }
+</style>

@@ -1,0 +1,9 @@
+skills-lock.json
+.agents
+.venv/
+docs/
+preprocessing/
+node_modules/
+dist/
+.astro/
+public
