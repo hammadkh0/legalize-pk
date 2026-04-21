@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { onMounted, ref } from "vue";
+import { onBeforeUnmount, onMounted, ref, watch } from "vue";
 import ThemeToggle from "./ThemeToggle.vue";
 
 const props = defineProps<{
@@ -8,6 +8,7 @@ const props = defineProps<{
 }>();
 
 const q = ref("");
+let debounceTimer: number | undefined;
 
 function normalizeBase() {
   return props.baseUrl.endsWith("/") ? props.baseUrl : `${props.baseUrl}/`;
@@ -23,15 +24,53 @@ function applyQueryFromUrl() {
   q.value = params.get("q") ?? "";
 }
 
-function submitSearch() {
+function pushSearchToUrl({ replaceOnly }: { replaceOnly: boolean }) {
   const base = normalizeBase();
   const trimmed = q.value.trim();
   const url = trimmed ? `${base}?q=${encodeURIComponent(trimmed)}` : base;
+
+  const here = window.location.href;
+  const isAlreadyOnHome = window.location.pathname === new URL(base, here).pathname;
+
+  // If we're already on the explorer page, update the URL without navigation so
+  // the list filters instantly.
+  if (isAlreadyOnHome) {
+    if (replaceOnly) window.history.replaceState({}, "", url);
+    else window.history.pushState({}, "", url);
+    // Notify listeners (HomeExplorer listens to popstate).
+    window.dispatchEvent(new PopStateEvent("popstate"));
+    return;
+  }
+
+  // Otherwise (e.g. on an article page), navigate to the explorer after a pause.
   window.location.assign(url);
+}
+
+function submitSearch() {
+  // Still allow Enter/click for immediate navigation, but the primary UX is debounced typing.
+  pushSearchToUrl({ replaceOnly: false });
 }
 
 onMounted(() => {
   if (props.showSearch) applyQueryFromUrl();
+});
+
+watch(
+  q,
+  () => {
+    if (!props.showSearch) return;
+    if (typeof window === "undefined") return;
+    if (debounceTimer) window.clearTimeout(debounceTimer);
+    debounceTimer = window.setTimeout(() => {
+      pushSearchToUrl({ replaceOnly: true });
+    }, 300);
+  },
+  { flush: "post" }
+);
+
+onBeforeUnmount(() => {
+  if (typeof window === "undefined") return;
+  if (debounceTimer) window.clearTimeout(debounceTimer);
 });
 </script>
 
@@ -43,12 +82,7 @@ onMounted(() => {
         <span class="brand__tag">Constitution of Pakistan</span>
       </a>
 
-      <form
-        v-if="showSearch"
-        class="search"
-        role="search"
-        @submit.prevent="submitSearch"
-      >
+      <form v-if="showSearch" class="search" role="search" @submit.prevent="submitSearch">
         <label class="search__label" for="site-search">Search articles</label>
         <input
           id="site-search"
