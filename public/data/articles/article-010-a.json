@@ -1,0 +1,31 @@
+{
+  "id": "article-010-a",
+  "number": 10,
+  "suffix": "a",
+  "path": "federal-constitution/article-010-A.md",
+  "meta": {
+    "title": "Right to fair trial",
+    "firstAdded": "19 April 2010",
+    "lastUpdated": "19 April 2010",
+    "sourceUrl": "https://pakistani.org/pakistan/constitution/amendments/18amendment.html",
+    "amendments": [
+      {
+        "number": 18,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/18amendment.html"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "29a2c35ccfc1f50b4025ffc510adfc24bf149270",
+      "authoredAt": "2010-04-19T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Eighteenth Amendment 2010-04-19 Asif Ali Zardari",
+      "amendmentNumber": 18,
+      "amendmentLabel": "Eighteenth Amendment",
+      "assentDate": "2010-04-19",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Right to fair trial |\n| ------------ | ------------------- |\n| First Added  | 19 April 2010       |\n| Last Updated | 19 April 2010       |\n| Source       | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n\nFor the determination of his civil rights and obligations or in any criminal charge against him a person shall be entitled to a fair trial and due process."
+    }
+  ]
+}

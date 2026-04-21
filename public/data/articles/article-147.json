@@ -1,0 +1,42 @@
+{
+  "id": "article-147",
+  "number": 147,
+  "suffix": null,
+  "path": "federal-constitution/article-147.md",
+  "meta": {
+    "title": "Power of the Provinces to entrust functions to the Federation.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "19 April 2010",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 18,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/18amendment.html"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | Power of the Provinces to entrust functions to the Federation.                              |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\nNotwithstanding anything contained in the Constitution, the Government of a Province may, with the consent of the Federal Government, entrust, either conditionally or unconditionally, to the Federal Government, or to its officers, functions in relation to any matter to which the executive authority of the Province extends.\n"
+    },
+    {
+      "commit": "29a2c35ccfc1f50b4025ffc510adfc24bf149270",
+      "authoredAt": "2010-04-19T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Eighteenth Amendment 2010-04-19 Asif Ali Zardari",
+      "amendmentNumber": 18,
+      "amendmentLabel": "Eighteenth Amendment",
+      "assentDate": "2010-04-19",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Power of the Provinces to entrust functions to the Federation.                              |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 19 April 2010                                                                               |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n\nNotwithstanding anything contained in the Constitution, the Government of a Province may, with the consent of the Federal Government, entrust, either conditionally or unconditionally, to the Federal Government, or to its officers, functions in relation to any matter to which the executive authority of the Province extends:  \nProvided that the Provincial Government shall get the functions so entrusted ratified by the Provincial Assembly within sixty days."
+    }
+  ]
+}

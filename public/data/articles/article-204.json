@@ -1,0 +1,57 @@
+{
+  "id": "article-204",
+  "number": 204,
+  "suffix": null,
+  "path": "federal-constitution/article-204.md",
+  "meta": {
+    "title": "Contempt of Court.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "13 November 2025",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 5,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/5amendment.html"
+      },
+      {
+        "number": 27,
+        "url": "https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | Contempt of Court.                                                                          |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\n(1) In this Article, “Court” means the Supreme Court or a High Court.\n\n(2) A Court shall have power to punish any person who—\n\n(a) abuses, interferes with or obstructs the process of the Court in any way or disobeys any order of the Court ; or\n\n(b) scandalizes the Court or otherwise does anything which tends to bring the Court or a Judge in relation to his office into hatred, ridicule or contempt ; or\n\n(c) does anything which tends to prejudice the determination of a matter pending before the Court ; or\n\n(d) does any other thing which, by law, constitutes contempt of the Court.\n\nExplanation.—Fair comment made in good faith and in the public interest on the working of the Court or any of\n\nits final decisions after the expiry of the period of limitation for appeal, if any, shall not constitute contempt of the Court.\n\n(3) The exercise of the power conferred on a Court by this Article may be regulated by law and, subject to law, by rules made by the Court.\n"
+    },
+    {
+      "commit": "1a57ab05c9d142064bc9e9f70d7be5a90227d4cd",
+      "authoredAt": "1976-09-16T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Fifth Amendment 1976-09-16 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 5,
+      "amendmentLabel": "Fifth Amendment",
+      "assentDate": "1976-09-16",
+      "signer": "Fazal Ilahi Chaudhry",
+      "content": "| Title        | Contempt of Court.                                                                          |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 16 September 1976                                                                           |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |\n\n(1) In this Article, “Court” means the Supreme Court or a High Court.\n\n(2) A Court shall have the power to punish a person for contempt of Court in accordance with law."
+    },
+    {
+      "commit": "c5fda48dbfca6f6795ca81ad6188aaa9c12843a4",
+      "authoredAt": "2025-11-13T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twenty-seventh Amendment 2025-11-13 Asif Ali Zardari",
+      "amendmentNumber": 27,
+      "amendmentLabel": "Twenty-seventh Amendment",
+      "assentDate": "2025-11-13",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Contempt of Court.                                                                          |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 13 November 2025                                                                            |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |\n| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |\n\n(1) In this Article, “Court” means the Federal Constitutional Court or the Supreme Court or a High Court.\n\n(2) A Court shall have the power to punish a person for contempt of Court in accordance with law."
+    }
+  ]
+}

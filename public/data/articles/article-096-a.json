@@ -1,0 +1,31 @@
+{
+  "id": "article-096-a",
+  "number": 96,
+  "suffix": "a",
+  "path": "federal-constitution/article-096-A.md",
+  "meta": {
+    "title": "Referendum as to confidence in Prime Minister",
+    "firstAdded": "16 May 1977",
+    "lastUpdated": "16 May 1977",
+    "sourceUrl": "https://pakistani.org/pakistan/constitution/amendments/7amendment.html",
+    "amendments": [
+      {
+        "number": 7,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/7amendment.html"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "aab6e95edcfabc40a92ef6e5fd093dd959ab9bc5",
+      "authoredAt": "1977-05-16T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Seventh Amendment 1977-05-16 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 7,
+      "amendmentLabel": "Seventh Amendment",
+      "assentDate": "1977-05-16",
+      "signer": "Fazal Ilahi Chaudhry",
+      "content": "| Title        | Referendum as to confidence in Prime Minister |\n| ------------ | --------------------------------------------- |\n| First Added  | 16 May 1977                                   |\n| Last Updated | 16 May 1977                                   |\n| Source       | https://pakistani.org/pakistan/constitution/amendments/7amendment.html |\n| Amendment 7  | https://pakistani.org/pakistan/constitution/amendments/7amendment.html |\n\n(1)\tIf at any time the Prime Minister considers it necessary to obtain a vote of confidence of the people of Pakistan through a referendum, he may advise the President to cause matter to be referred to a referendum in accordance with law made by Parliament.\n\n(2)\tThe law referred to in clause (1) shall provide for the Constitution of Referendum Commission and the manner and mode of holding a referendum.\n\n(3)\tOn receipt of the advice of the Prime Minister under clause (1), the President shall call upon the Referendum Commission to conduct a referendum amongst the persons whose names appear on the electoral rolls for the immediately preceding general elections to the National Assembly as revised up-to-date.\n\n(4)\tAny dispute arising in connection with the counting of votes at referendum shall be finally determined by the Referendum Commission or a member thereof authorized by it and, save as aforesaid, no dispute arising in connection with a referendum or the result thereof shall be raised or permitted to be raised before any court or other authority whatsoever.\n\n(5)\tIf, on the final count of the votes cast at the referendum, the Prime Minister fails to secure majority of the total votes cast in the matter of the confidence of the people of Pakistan, he shall be deemed to have tendered his resignation with in the meaning of Article 94."
+    }
+  ]
+}

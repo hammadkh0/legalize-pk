@@ -1,0 +1,42 @@
+{
+  "id": "article-129",
+  "number": 129,
+  "suffix": null,
+  "path": "federal-constitution/article-129.md",
+  "meta": {
+    "title": "The Provincial Government.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "19 April 2010",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 18,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/18amendment.html"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | The Provincial Government.                                                                  |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\n(1) Subject to the Constitution, the executive authority of the Province shall be exercised in the name of the Governor by the Provincial Government, consisting of the Chief Minister and Provincial Ministers, which shall act through the Chief Minister.\n\n(2) In the performance of his functions under the Constitution, the Chief Minister may act either directly or through the Provincial Ministers.\n\n(3) The Chief Minister and the Provincial Ministers shall be collectively responsible to the Provincial Assembly.\n"
+    },
+    {
+      "commit": "29a2c35ccfc1f50b4025ffc510adfc24bf149270",
+      "authoredAt": "2010-04-19T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Eighteenth Amendment 2010-04-19 Asif Ali Zardari",
+      "amendmentNumber": 18,
+      "amendmentLabel": "Eighteenth Amendment",
+      "assentDate": "2010-04-19",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | The Provincial Government.                                                                  |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 19 April 2010                                                                               |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n\n(1) Subject to the Constitution, the executive authority of the Province shall be exercised in the name of the Governor by the Provincial Government, consisting of the Chief Minister and Provincial Ministers, which shall act through the Chief Minister.\n\n(2) In the performance of his functions under the Constitution, the Chief Minister may act either directly or through the Provincial Ministers."
+    }
+  ]
+}

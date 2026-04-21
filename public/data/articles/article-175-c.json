@@ -1,0 +1,31 @@
+{
+  "id": "article-175-c",
+  "number": 175,
+  "suffix": "c",
+  "path": "federal-constitution/article-175-C.md",
+  "meta": {
+    "title": "Appointment of Federal Constitutional Court Judges",
+    "firstAdded": "13 November 2025",
+    "lastUpdated": "13 November 2025",
+    "sourceUrl": "https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf",
+    "amendments": [
+      {
+        "number": 27,
+        "url": "https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "c5fda48dbfca6f6795ca81ad6188aaa9c12843a4",
+      "authoredAt": "2025-11-13T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twenty-seventh Amendment 2025-11-13 Asif Ali Zardari",
+      "amendmentNumber": 27,
+      "amendmentLabel": "Twenty-seventh Amendment",
+      "assentDate": "2025-11-13",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Appointment of Federal Constitutional Court Judges |\n| ------------ | ---------------------------------- |\n| First Added  | 13 November 2025 |\n| Last Updated | 13 November 2025 |\n| Source       | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |\n| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |\n\n(1) The Chief Justice of the Federal Constitutional Court and each of the  other Judges thereof shall be appointed by the President in accordance\nwith Article 175A.\n\n(2) A person shall not be appointed as Judge of the Federal\nConstitutional Court unless he is a citizen of Pakistan and-\n(a) is or has been a Judge of the Supreme Court; or\n(b) has, for a period of not less than seven years, been a Judge\nof a High Court; or\n(c) has, for a period of not less than twenty years, been an\nadvocate of a High Court and is an advocate of the Supreme\nCourt.\n\n(3) Notwithstanding the date of his appointment under this\nArticle, a Judge of the Supreme Court shall retain his inter se seniority\namong Judges other than the Chief Justice of the Federal Constitutional\nCourt."
+    }
+  ]
+}

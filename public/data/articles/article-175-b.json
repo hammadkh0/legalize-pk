@@ -1,0 +1,31 @@
+{
+  "id": "article-175-b",
+  "number": 175,
+  "suffix": "b",
+  "path": "federal-constitution/article-175-B.md",
+  "meta": {
+    "title": "Constitution of Federal Constitutional Court",
+    "firstAdded": "13 November 2025",
+    "lastUpdated": "13 November 2025",
+    "sourceUrl": "https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf",
+    "amendments": [
+      {
+        "number": 27,
+        "url": "https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "c5fda48dbfca6f6795ca81ad6188aaa9c12843a4",
+      "authoredAt": "2025-11-13T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twenty-seventh Amendment 2025-11-13 Asif Ali Zardari",
+      "amendmentNumber": 27,
+      "amendmentLabel": "Twenty-seventh Amendment",
+      "assentDate": "2025-11-13",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Constitution of Federal Constitutional Court |\n| ------------ | ---------------------------------- |\n| First Added  | 13 November 2025 |\n| Last Updated | 13 November 2025 |\n| Source       | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |\n| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |\n\n(1) The Federal Constitutional Court shall consist of a Chief Justice to be known\nas the Chief Justice of the Federal Constitutional Court of Pakistan and so\nmany other Judges as may be determined by Act of Majlis-e-Shoora\n(Parliament) or, until so determined, as may be fixed by the President:\nProvided that the Federal Constitutional Court may have equal\nnumber of Judges from each Province.\n\n(2) The President may, by Order, make necessary provisions for\nthe matters consequential or ancillary to the establishment and\nfunctioning of the Federal Constitutional Court."
+    }
+  ]
+}

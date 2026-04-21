@@ -1,0 +1,57 @@
+{
+  "id": "article-038",
+  "number": 38,
+  "suffix": null,
+  "path": "federal-constitution/article-038.md",
+  "meta": {
+    "title": "Promotion of social justice and eradication of social evils.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "21 October 2024",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 18,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/18amendment.html"
+      },
+      {
+        "number": 26,
+        "url": "https://www.na.gov.pk/uploads/documents/671f74b8da9e0_263.pdf"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": ""
+    },
+    {
+      "commit": "29a2c35ccfc1f50b4025ffc510adfc24bf149270",
+      "authoredAt": "2010-04-19T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Eighteenth Amendment 2010-04-19 Asif Ali Zardari",
+      "amendmentNumber": 18,
+      "amendmentLabel": "Eighteenth Amendment",
+      "assentDate": "2010-04-19",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Promotion of social justice and eradication of social evils.                                |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 19 April 2010                                                                               |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n\nThe State shall—\n\n(a) secure the well-being of the people, irrespective of sex, caste, creed or race, by raising their standard of living, by preventing the concentration of wealth and means of production and distribution in the hands of a few to the detriment of general interest and by ensuring equitable adjustment of rights between employers and employees, and landlords and tenants ;\n\n(b) provide for all citizens, within the available resources of the country, facilities for work and adequate livelihood with reasonable rest and leisure ;\n\n(c) provide for all persons employed in the service of Pakistan or otherwise, social security by compulsory social insurance or other means ;\n\n(d) provide basic necessities of life, such as food, clothing, housing, education and medical relief, for all such citizens, irrespective of sex, caste, creed or race, as are permanently or temporarily unable to earn their livelihood on account of infirmity, sickness or unemployment ;\n\n(e) reduce disparity in the income and earnings of individuals, including persons in the various classes of the service of Pakistan ;\n\n(f) eliminate riba as early as possible ; and\n\n(g) the shares of the Provinces in all federal services, including autonomous bodies and corporations established by, or under the control of, the Federal Government, shall be secured and any omission in the allocation of the shares of the Provinces in the past shall be recitified."
+    },
+    {
+      "commit": "599ecf2f28a1f4c65149e341b154acd170cebe20",
+      "authoredAt": "2024-10-21T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twenty-sixth Amendment 2024-10-21 Asif Ali Zardari",
+      "amendmentNumber": 26,
+      "amendmentLabel": "Twenty-sixth Amendment",
+      "assentDate": "2024-10-21",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Promotion of social justice and eradication of social evils.                                |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 21 October 2024                                                                             |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n| Amendment 26 | https://www.na.gov.pk/uploads/documents/671f74b8da9e0_263.pdf |\n\nThe State shall—\n\n(a) secure the well-being of the people, irrespective of sex, caste, creed or race, by raising their standard of living, by preventing the concentration of wealth and means of production and distribution in the hands of a few to the detriment of general interest and by ensuring equitable adjustment of rights between employers and employees, and landlords and tenants ;\n\n(b) provide for all citizens, within the available resources of the country, facilities for work and adequate livelihood with reasonable rest and leisure ;\n\n(c) provide for all persons employed in the service of Pakistan or otherwise, social security by compulsory social insurance or other means ;\n\n(d) provide basic necessities of life, such as food, clothing, housing, education and medical relief, for all such citizens, irrespective of sex, caste, creed or race, as are permanently or temporarily unable to earn their livelihood on account of infirmity, sickness or unemployment ;\n\n(e) reduce disparity in the income and earnings of individuals, including persons in the various classes of the service of Pakistan ;\n\n(f) eliminate riba completely before the first day of January, two thousand twenty-eight; and\n\n(g) the shares of the Provinces in all federal services, including autonomous bodies and corporations established by, or under the control of, the Federal Government, shall be secured and any omission in the allocation of the shares of the Provinces in the past shall be recitified."
+    }
+  ]
+}

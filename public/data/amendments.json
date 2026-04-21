@@ -1,0 +1,280 @@
+{
+  "generatedAt": "2026-04-21T09:33:25.348Z",
+  "amendments": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "summaryPath": "federal-ammendment-summaries/07-1973-original-constitution.md"
+    },
+    {
+      "commit": "b9b13725a9079991836ec3f0c37a30a0cb2ebbe7",
+      "authoredAt": "1974-05-04T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "First Amendment 1974-05-04 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 1,
+      "amendmentLabel": "First Amendment",
+      "assentDate": "1974-05-04",
+      "signer": "Fazal Ilahi Chaudhry",
+      "summaryPath": "federal-ammendment-summaries/05-1974-first-amendment.md"
+    },
+    {
+      "commit": "b15a257d0cdb43f3300bce7063dd878e84c88b6d",
+      "authoredAt": "1974-09-17T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Second Amendment 1974-09-17 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 2,
+      "amendmentLabel": "Second Amendment",
+      "assentDate": "1974-09-17",
+      "signer": "Fazal Ilahi Chaudhry",
+      "summaryPath": "federal-ammendment-summaries/09-1974-second-amendment.md"
+    },
+    {
+      "commit": "73343e0b2bb92989d28fb88984d827b9f348594c",
+      "authoredAt": "1975-02-18T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Third Amendment 1975-02-18 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 3,
+      "amendmentLabel": "Third Amendment",
+      "assentDate": "1975-02-18",
+      "signer": "Fazal Ilahi Chaudhry",
+      "summaryPath": "federal-ammendment-summaries/02-1975-third-amendment.md"
+    },
+    {
+      "commit": "ecb63084f571d096abfa0b6d129c54538470ea63",
+      "authoredAt": "1975-11-21T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Fourth Amendment 1975-11-21 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 4,
+      "amendmentLabel": "Fourth Amendment",
+      "assentDate": "1975-11-21",
+      "signer": "Fazal Ilahi Chaudhry",
+      "summaryPath": "federal-ammendment-summaries/11-1975-fourth-amendment.md"
+    },
+    {
+      "commit": "1a57ab05c9d142064bc9e9f70d7be5a90227d4cd",
+      "authoredAt": "1976-09-16T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Fifth Amendment 1976-09-16 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 5,
+      "amendmentLabel": "Fifth Amendment",
+      "assentDate": "1976-09-16",
+      "signer": "Fazal Ilahi Chaudhry",
+      "summaryPath": "federal-ammendment-summaries/09-1976-fifth-amendment.md"
+    },
+    {
+      "commit": "f9a01db704234022d5442ca57399404b687d8adc",
+      "authoredAt": "1976-12-31T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Sixth Amendment 1976-12-31 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 6,
+      "amendmentLabel": "Sixth Amendment",
+      "assentDate": "1976-12-31",
+      "signer": "Fazal Ilahi Chaudhry",
+      "summaryPath": "federal-ammendment-summaries/12-1976-sixth-amendment.md"
+    },
+    {
+      "commit": "aab6e95edcfabc40a92ef6e5fd093dd959ab9bc5",
+      "authoredAt": "1977-05-16T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Seventh Amendment 1977-05-16 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 7,
+      "amendmentLabel": "Seventh Amendment",
+      "assentDate": "1977-05-16",
+      "signer": "Fazal Ilahi Chaudhry",
+      "summaryPath": "federal-ammendment-summaries/05-1977-seventh-amendment.md"
+    },
+    {
+      "commit": "e0ddba7c820aff60efd8f8c5a5ffd02401efc2d2",
+      "authoredAt": "1985-11-11T12:00:00Z",
+      "author": "Muhammad Zia-ul-Haq",
+      "subject": "Eighth Amendment 1985-11-11 Muhammad Zia-ul-Haq",
+      "amendmentNumber": 8,
+      "amendmentLabel": "Eighth Amendment",
+      "assentDate": "1985-11-11",
+      "signer": "Muhammad Zia-ul-Haq",
+      "summaryPath": "federal-ammendment-summaries/11-1985-eighth-amendment.md"
+    },
+    {
+      "commit": "d13d65ef1546350de916df621b68bf0b9192c3a7",
+      "authoredAt": "1987-03-29T12:00:00Z",
+      "author": "Muhammad Zia-ul-Haq",
+      "subject": "Tenth Amendment 1987-03-29 Muhammad Zia-ul-Haq",
+      "amendmentNumber": 10,
+      "amendmentLabel": "Tenth Amendment",
+      "assentDate": "1987-03-29",
+      "signer": "Muhammad Zia-ul-Haq",
+      "summaryPath": "federal-ammendment-summaries/03-1987-tenth-amendment.md"
+    },
+    {
+      "commit": "5f77ace41208dca8d0530410cba13c4fedf95a1b",
+      "authoredAt": "1991-07-28T12:00:00Z",
+      "author": "Ghulam Ishaq Khan",
+      "subject": "Twelfth Amendment 1991-07-28 Ghulam Ishaq Khan",
+      "amendmentNumber": 12,
+      "amendmentLabel": "Twelfth Amendment",
+      "assentDate": "1991-07-28",
+      "signer": "Ghulam Ishaq Khan",
+      "summaryPath": "federal-ammendment-summaries/07-1991-twelfth-amendment.md"
+    },
+    {
+      "commit": "fa6eb54f2f322aad41a7f66184c2b53935567ef9",
+      "authoredAt": "1997-04-04T12:00:00Z",
+      "author": "Farooq Leghari",
+      "subject": "Thirteenth Amendment 1997-04-04 Farooq Leghari",
+      "amendmentNumber": 13,
+      "amendmentLabel": "Thirteenth Amendment",
+      "assentDate": "1997-04-04",
+      "signer": "Farooq Leghari",
+      "summaryPath": "federal-ammendment-summaries/04-1997-thirteenth-amendment.md"
+    },
+    {
+      "commit": "c338658a2acdf4fdaa9baf5993a7c50d9d13e495",
+      "authoredAt": "1997-07-03T12:00:00Z",
+      "author": "Farooq Leghari",
+      "subject": "Fourteenth Amendment 1997-07-03 Farooq Leghari",
+      "amendmentNumber": 14,
+      "amendmentLabel": "Fourteenth Amendment",
+      "assentDate": "1997-07-03",
+      "signer": "Farooq Leghari",
+      "summaryPath": "federal-ammendment-summaries/07-1997-fourteenth-amendment.md"
+    },
+    {
+      "commit": "38e5fd919424d1203b4d4b8852e34562c0ec4d68",
+      "authoredAt": "1999-08-05T12:00:00Z",
+      "author": "Muhammad Rafiq Tarar",
+      "subject": "Sixteenth Amendment 1999-08-05 Muhammad Rafiq Tarar",
+      "amendmentNumber": 16,
+      "amendmentLabel": "Sixteenth Amendment",
+      "assentDate": "1999-08-05",
+      "signer": "Muhammad Rafiq Tarar",
+      "summaryPath": "federal-ammendment-summaries/08-1999-sixteenth-amendment.md"
+    },
+    {
+      "commit": "bcad3e892450e90edcde0effcc5793c4ae9f88c4",
+      "authoredAt": "2003-12-31T12:00:00Z",
+      "author": "Pervez Musharraf",
+      "subject": "Seventeenth Amendment 2003-12-31 Pervez Musharraf",
+      "amendmentNumber": 17,
+      "amendmentLabel": "Seventeenth Amendment",
+      "assentDate": "2003-12-31",
+      "signer": "Pervez Musharraf",
+      "summaryPath": "federal-ammendment-summaries/12-2003-seventeenth-amendment.md"
+    },
+    {
+      "commit": "29a2c35ccfc1f50b4025ffc510adfc24bf149270",
+      "authoredAt": "2010-04-19T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Eighteenth Amendment 2010-04-19 Asif Ali Zardari",
+      "amendmentNumber": 18,
+      "amendmentLabel": "Eighteenth Amendment",
+      "assentDate": "2010-04-19",
+      "signer": "Asif Ali Zardari",
+      "summaryPath": "federal-ammendment-summaries/04-2010-eighteenth-amendment.md"
+    },
+    {
+      "commit": "530b9991d30712a6f999981c51530eb9536a2377",
+      "authoredAt": "2011-01-01T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Nineteenth Amendment 2011-01-01 Asif Ali Zardari",
+      "amendmentNumber": 19,
+      "amendmentLabel": "Nineteenth Amendment",
+      "assentDate": "2011-01-01",
+      "signer": "Asif Ali Zardari",
+      "summaryPath": "federal-ammendment-summaries/01-2011-nineteenth-amendment.md"
+    },
+    {
+      "commit": "8d521d8b4ed1a47cbe67fad306668bb1649b2a29",
+      "authoredAt": "2012-02-28T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twentieth Amendment 2012-02-28 Asif Ali Zardari",
+      "amendmentNumber": 20,
+      "amendmentLabel": "Twentieth Amendment",
+      "assentDate": "2012-02-28",
+      "signer": "Asif Ali Zardari",
+      "summaryPath": "federal-ammendment-summaries/02-2012-twentieth-amendment.md"
+    },
+    {
+      "commit": "9ef55875ceabc9d338cd176694208e3e7fd7556e",
+      "authoredAt": "2015-01-07T12:00:00Z",
+      "author": "Mamnoon Hussain",
+      "subject": "Twenty-first Amendment 2015-01-07 Mamnoon Hussain",
+      "amendmentNumber": 21,
+      "amendmentLabel": "Twenty-first Amendment",
+      "assentDate": "2015-01-07",
+      "signer": "Mamnoon Hussain",
+      "summaryPath": "federal-ammendment-summaries/07-2015-twenty-first-amendment.md"
+    },
+    {
+      "commit": "844462f8db036568f97423a5ae3e0625abbc8352",
+      "authoredAt": "2016-06-08T12:00:00Z",
+      "author": "Mamnoon Hussain",
+      "subject": "Twenty-second Amendment 2016-06-08 Mamnoon Hussain",
+      "amendmentNumber": 22,
+      "amendmentLabel": "Twenty-second Amendment",
+      "assentDate": "2016-06-08",
+      "signer": "Mamnoon Hussain",
+      "summaryPath": "federal-ammendment-summaries/06-2016-twenty-second-amendment.md"
+    },
+    {
+      "commit": "6b777373c4416a8e99c0a9c28b6631aab8cc84dc",
+      "authoredAt": "2017-01-07T12:00:00Z",
+      "author": "Mamnoon Hussain",
+      "subject": "Twenty-third Amendment 2017-01-07 Mamnoon Hussain",
+      "amendmentNumber": 23,
+      "amendmentLabel": "Twenty-third Amendment",
+      "assentDate": "2017-01-07",
+      "signer": "Mamnoon Hussain",
+      "summaryPath": "federal-ammendment-summaries/01-2017-twenty-third-amendment.md"
+    },
+    {
+      "commit": "fc40fa818007abb2cc48425ca62e525d910b366c",
+      "authoredAt": "2017-12-22T12:00:00Z",
+      "author": "Mamnoon Hussain",
+      "subject": "Twenty-fourth Amendment 2017-12-22 Mamnoon Hussain",
+      "amendmentNumber": 24,
+      "amendmentLabel": "Twenty-fourth Amendment",
+      "assentDate": "2017-12-22",
+      "signer": "Mamnoon Hussain",
+      "summaryPath": "federal-ammendment-summaries/12-2017-twenty-fourth-amendment.md"
+    },
+    {
+      "commit": "7dbf4522e2bde6aa6c5ea4d6e96d667a550d2465",
+      "authoredAt": "2018-05-31T12:00:00Z",
+      "author": "Mamnoon Hussain",
+      "subject": "Twenty-fifth Amendment 2018-05-31 Mamnoon Hussain",
+      "amendmentNumber": 25,
+      "amendmentLabel": "Twenty-fifth Amendment",
+      "assentDate": "2018-05-31",
+      "signer": "Mamnoon Hussain",
+      "summaryPath": "federal-ammendment-summaries/05-2018-twenty-fifth-amendment.md"
+    },
+    {
+      "commit": "599ecf2f28a1f4c65149e341b154acd170cebe20",
+      "authoredAt": "2024-10-21T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twenty-sixth Amendment 2024-10-21 Asif Ali Zardari",
+      "amendmentNumber": 26,
+      "amendmentLabel": "Twenty-sixth Amendment",
+      "assentDate": "2024-10-21",
+      "signer": "Asif Ali Zardari",
+      "summaryPath": "federal-ammendment-summaries/10-2024-twenty-sixth-amendment.md"
+    },
+    {
+      "commit": "c5fda48dbfca6f6795ca81ad6188aaa9c12843a4",
+      "authoredAt": "2025-11-13T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twenty-seventh Amendment 2025-11-13 Asif Ali Zardari",
+      "amendmentNumber": 27,
+      "amendmentLabel": "Twenty-seventh Amendment",
+      "assentDate": "2025-11-13",
+      "signer": "Asif Ali Zardari",
+      "summaryPath": "federal-ammendment-summaries/11-2025-twenty-seventh-amendment.md"
+    }
+  ]
+}

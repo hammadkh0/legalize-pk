@@ -1,0 +1,31 @@
+{
+  "id": "article-175-l",
+  "number": 175,
+  "suffix": "l",
+  "path": "federal-constitution/article-175-L.md",
+  "meta": {
+    "title": "Seat of the Federal Constitutional Court",
+    "firstAdded": "13 November 2025",
+    "lastUpdated": "13 November 2025",
+    "sourceUrl": "https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf",
+    "amendments": [
+      {
+        "number": 27,
+        "url": "https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "c5fda48dbfca6f6795ca81ad6188aaa9c12843a4",
+      "authoredAt": "2025-11-13T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twenty-seventh Amendment 2025-11-13 Asif Ali Zardari",
+      "amendmentNumber": 27,
+      "amendmentLabel": "Twenty-seventh Amendment",
+      "assentDate": "2025-11-13",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Seat of the Federal Constitutional Court |\n| ------------ | ---------------------------------------- |\n| First Added  | 13 November 2025 |\n| Last Updated | 13 November 2025 |\n| Source       | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |\n| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |\n\n(1) The permanent seat of the Federal Constitutional Court shall be at Islamabad.\n(2) The Federal Constitutional Court may from time to time sit at such other places as the Chief Justice of the Federal Constitutional Court,\nwith the prior approval of the President, may appoint."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "article-198",
+  "number": 198,
+  "suffix": null,
+  "path": "federal-constitution/article-198.md",
+  "meta": {
+    "title": "Seat of the High Court.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "19 April 2010",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 18,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/18amendment.html"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | Seat of the High Court.                                                                     |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\nEach High Court in existence immediately before the commencing day shall continue to have its principal seat at the place where it had such seat before that day.\n"
+    },
+    {
+      "commit": "29a2c35ccfc1f50b4025ffc510adfc24bf149270",
+      "authoredAt": "2010-04-19T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Eighteenth Amendment 2010-04-19 Asif Ali Zardari",
+      "amendmentNumber": 18,
+      "amendmentLabel": "Eighteenth Amendment",
+      "assentDate": "2010-04-19",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Seat of the High Court.                                                                     |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 19 April 2010                                                                               |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n\nEach High Court in existence immediately before the commencing day shall continue to have its principal seat at the place where it had such seat before that day.\n\n(1A) The High Court for Islamabad Capital Territory shall have its principal seat at Islamabad.\n\n(2) Each High Court shall have a Bench at Bahawalpur, Multan and Rawalpindi.\n\n(3) Each High Court shall have a Bench at Peshawar, Dera Ismail Khan, Abbottabad, Mingora and Bannu, and Quetta, Sibi and Turbat.\n\n(4) Each bench referred to in clause (2) and (3) shall consist of such number of Judges as the Chief Justice of the High Court may, with the approval of the President, appoint.\n\n(5) The Governor in consultation with the Chief Justice of the High Court shall make rules to regulate the practice and procedure of each Bench.\n\n(6) Any decision of a Bench in respect of which no appeal lies to the High Court shall be deemed a decision of the High Court."
+    }
+  ]
+}

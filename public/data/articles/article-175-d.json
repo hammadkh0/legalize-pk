@@ -1,0 +1,31 @@
+{
+  "id": "article-175-d",
+  "number": 175,
+  "suffix": "d",
+  "path": "federal-constitution/article-175-D.md",
+  "meta": {
+    "title": "Oath of Office of the Chief Justice and other judges of the Federal Constitutional Court",
+    "firstAdded": "13 November 2025",
+    "lastUpdated": "13 November 2025",
+    "sourceUrl": "https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf",
+    "amendments": [
+      {
+        "number": 27,
+        "url": "https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "c5fda48dbfca6f6795ca81ad6188aaa9c12843a4",
+      "authoredAt": "2025-11-13T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twenty-seventh Amendment 2025-11-13 Asif Ali Zardari",
+      "amendmentNumber": 27,
+      "amendmentLabel": "Twenty-seventh Amendment",
+      "assentDate": "2025-11-13",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Oath of Office of the Chief Justice and other judges of the Federal Constitutional Court |\n| ------------ | ---------------------------------- |\n| First Added  | 13 November 2025 |\n| Last Updated | 13 November 2025 |\n| Source       | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |\n| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |\n\nBefore entering upon office, the Chief\nJustice of the Federal Constitutional Court shall make before the\nPresident, and any other Judge of the Federal Constitutional Court shall\nmake before the Chief Justice, oath in the form set out in the Third\nSchedule."
+    }
+  ]
+}

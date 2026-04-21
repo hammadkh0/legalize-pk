@@ -1,0 +1,117 @@
+{
+  "id": "article-101",
+  "number": 101,
+  "suffix": null,
+  "path": "federal-constitution/article-101.md",
+  "meta": {
+    "title": "Appointment of Governor.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "19 April 2010",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 1,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/1amendment.html"
+      },
+      {
+        "number": 5,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/5amendment.html"
+      },
+      {
+        "number": 7,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/7amendment.html"
+      },
+      {
+        "number": 8,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/8amendment.html"
+      },
+      {
+        "number": 13,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/13amendment.html"
+      },
+      {
+        "number": 18,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/18amendment.html"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | Appointment of Governor.                                                                    |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\n(1) There shall be a Governor for each Province, who shall be appointed by the President.\n\n(2) A person shall not be appointed a Governor unless he is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age.\n\n(3) The Governor shall hold office during the pleasure of the President.\n\n(4) The Governor may, by writing under his hand addressed to the President, resign his office.\n"
+    },
+    {
+      "commit": "b9b13725a9079991836ec3f0c37a30a0cb2ebbe7",
+      "authoredAt": "1974-05-04T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "First Amendment 1974-05-04 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 1,
+      "amendmentLabel": "First Amendment",
+      "assentDate": "1974-05-04",
+      "signer": "Fazal Ilahi Chaudhry",
+      "content": "| Title        | Appointment of Governor.                                                                    |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 04 May 1974                                                                                 |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |\n\n(1) There shall be a Governor for each Province, who shall be appointed by the President.\n\n(2) A person shall not be appointed a Governor unless he is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age.\n\n(3) The Governor shall hold office during the pleasure of the President, and shall be entitled to such salary, allowances and privileges as the President may determine.\n\n(4) The Governor may, by writing under his hand addressed to the President, resign his office."
+    },
+    {
+      "commit": "1a57ab05c9d142064bc9e9f70d7be5a90227d4cd",
+      "authoredAt": "1976-09-16T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Fifth Amendment 1976-09-16 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 5,
+      "amendmentLabel": "Fifth Amendment",
+      "assentDate": "1976-09-16",
+      "signer": "Fazal Ilahi Chaudhry",
+      "content": "| Title        | Appointment of Governor.                                                                    |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 16 September 1976                                                                           |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |\n| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |\n\n(1) There shall be a Governor for each Province, who shall be appointed by the President.\n\n(2) A person shall not be appointed a Governor unless he is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age:\n\nProvided that, after the holding of the first general election to the National Assembly, a person shall not be appointed to be the Governor of the Province of which he is a permanent resident.\n\n(2-A) Nothing contained in the proviso to clause (2) shall apply during the period that an Order under paragraph (c) of clause (2) of Article 232 or a Proclamation under Article 234 is in force.\n\n(3) The Governor shall hold office during the pleasure of the President, and shall be entitled to such salary, allowances and privileges as the President may determine.\n\n(4) The Governor may, by writing under his hand addressed to the President, resign his office."
+    },
+    {
+      "commit": "aab6e95edcfabc40a92ef6e5fd093dd959ab9bc5",
+      "authoredAt": "1977-05-16T12:00:00Z",
+      "author": "Fazal Ilahi Chaudhry",
+      "subject": "Seventh Amendment 1977-05-16 Fazal Ilahi Chaudhry",
+      "amendmentNumber": 7,
+      "amendmentLabel": "Seventh Amendment",
+      "assentDate": "1977-05-16",
+      "signer": "Fazal Ilahi Chaudhry",
+      "content": "| Title        | Appointment of Governor.                                                                    |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 16 May 1977                                                                                 |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |\n| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |\n| Amendment 7  | https://pakistani.org/pakistan/constitution/amendments/7amendment.html |\n\n(1) There shall be a Governor for each Province, who shall be appointed by the President.\n\n(2) A person shall not be appointed a Governor unless he is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age:\n\nProvided that, after the holding of the first general election to the National Assembly, a person shall not be appointed to be the Governor of the Province of which he is a permanent resident.\n\n(2-A) Nothing contained in the proviso to clause (2) shall apply during the period that a Proclamation under article 232 or a Proclamation under Article 234 is in force.\n\n(3) The Governor shall hold office during the pleasure of the President, and shall be entitled to such salary, allowances and privileges as the President may determine.\n\n(4) The Governor may, by writing under his hand addressed to the President, resign his office."
+    },
+    {
+      "commit": "e0ddba7c820aff60efd8f8c5a5ffd02401efc2d2",
+      "authoredAt": "1985-11-11T12:00:00Z",
+      "author": "Muhammad Zia-ul-Haq",
+      "subject": "Eighth Amendment 1985-11-11 Muhammad Zia-ul-Haq",
+      "amendmentNumber": 8,
+      "amendmentLabel": "Eighth Amendment",
+      "assentDate": "1985-11-11",
+      "signer": "Muhammad Zia-ul-Haq",
+      "content": "| Title        | Appointment of Governor.                                                                    |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 11 November 1985                                                                            |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html                      |\n| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html                      |\n| Amendment 7  | https://pakistani.org/pakistan/constitution/amendments/7amendment.html                      |\n| Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html |\n\n(1) There shall be a Governor for each Province, who shall be appointed by the President after consultation with the Prime Minister.\n\n(2) A person shall not be appointed a Governor unless he is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age.\n\n(3) The Governor shall hold office during the pleasure of the President, and shall be entitled to such salary, allowances and privileges as the President may determine.\n\n(4) The Governor may, by writing under his hand addressed to the President, resign his office.\n\n(5) The President may direct the Governor in any contingency not provided for in this Part."
+    },
+    {
+      "commit": "fa6eb54f2f322aad41a7f66184c2b53935567ef9",
+      "authoredAt": "1997-04-04T12:00:00Z",
+      "author": "Farooq Leghari",
+      "subject": "Thirteenth Amendment 1997-04-04 Farooq Leghari",
+      "amendmentNumber": 13,
+      "amendmentLabel": "Thirteenth Amendment",
+      "assentDate": "1997-04-04",
+      "signer": "Farooq Leghari",
+      "content": "| Title        | Appointment of Governor.                                                                    |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 04 April 1997                                                                               |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html                      |\n| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html                      |\n| Amendment 7  | https://pakistani.org/pakistan/constitution/amendments/7amendment.html                      |\n| Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html                      |\n| Amendment 13 | https://pakistani.org/pakistan/constitution/amendments/13amendment.html |\n\n(1) There shall be a Governor for each Province, who shall be appointed by the President on the advice of the Prime Minister.\n\n(2) A person shall not be appointed a Governor unless he is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age.\n\n(3) The Governor shall hold office during the pleasure of the President, and shall be entitled to such salary, allowances and privileges as the President may determine.\n\n(4) The Governor may, by writing under his hand addressed to the President, resign his office.\n\n(5) The President may direct the Governor in any contingency not provided for in this Part."
+    },
+    {
+      "commit": "29a2c35ccfc1f50b4025ffc510adfc24bf149270",
+      "authoredAt": "2010-04-19T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Eighteenth Amendment 2010-04-19 Asif Ali Zardari",
+      "amendmentNumber": 18,
+      "amendmentLabel": "Eighteenth Amendment",
+      "assentDate": "2010-04-19",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Appointment of Governor.                                                                    |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 19 April 2010                                                                               |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html                      |\n| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html                      |\n| Amendment 7  | https://pakistani.org/pakistan/constitution/amendments/7amendment.html                      |\n| Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html                      |\n| Amendment 13 | https://pakistani.org/pakistan/constitution/amendments/13amendment.html                     |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n\n(1) There shall be a Governor for each Province, who shall be appointed by the President on the advice of the Prime Minister.\n\n(2) A person shall not be appointed a Governor unless he is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age and is a registered voter and resident of the Province concerned.\n\n(3) The Governor shall hold office during the pleasure of the President, and shall be entitled to such salary, allowances and privileges as the President may determine.\n\n(4) The Governor may, by writing under his hand addressed to the President, resign his office.\n\n(5) The President may direct the Governor in any contingency not provided for in this Part."
+    }
+  ]
+}

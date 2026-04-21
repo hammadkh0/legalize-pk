@@ -1,0 +1,26 @@
+{
+  "id": "article-014",
+  "number": 14,
+  "suffix": null,
+  "path": "federal-constitution/article-014.md",
+  "meta": {
+    "title": "Inviolability of dignity of man, etc.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "14 August 1973",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": []
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | Inviolability of dignity of man, etc.                                                       |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\n(1) The dignity of man and, subject to law, the privacy of home, shall be inviolable.\n(2) No person shall be subjected to torture for the purpose of extracting evidence.\n"
+    }
+  ]
+}

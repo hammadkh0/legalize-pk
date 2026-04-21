@@ -1,0 +1,53 @@
+{
+  "id": "article-090",
+  "number": 90,
+  "suffix": null,
+  "path": "federal-constitution/article-090.md",
+  "meta": {
+    "title": "The Federal Government:",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "19 April 2010",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 18,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/18amendment.html"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | The Federal Government.                                                                     |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\n(1) Subject to the Constitution, the executive authority of the Federation shall be exercised in the name of the President by the Federal Government, consisting of the Prime Minister and the Federal Ministers, which shall act through the Prime Minister who shall be the chief executive of the Federation.\n(2) In the performance of his functions under the Constitution. the Prime Minister may act either directly or through the Federal Ministers.\n(3) The Prime Minister and the Federal Ministers shall be collectively responsible to the National Assembly.\n"
+    },
+    {
+      "commit": "e0ddba7c820aff60efd8f8c5a5ffd02401efc2d2",
+      "authoredAt": "1985-11-11T12:00:00Z",
+      "author": "Muhammad Zia-ul-Haq",
+      "subject": "Eighth Amendment 1985-11-11 Muhammad Zia-ul-Haq",
+      "amendmentNumber": 8,
+      "amendmentLabel": "Eighth Amendment",
+      "assentDate": "1985-11-11",
+      "signer": "Muhammad Zia-ul-Haq",
+      "content": "| Title        | The Federal Government.                                                                     |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 11 November 1985                                                                            |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html |\n\n(1) Subject to the Constitution, the executive authority of the Federation shall be exercised in the name of the President by the Federal Government, consisting of the Prime Minister and the Federal Ministers, which shall act through the Prime Minister who shall be the chief executive of the Federation.\n\n(2) Nothing contained in clause (1) shall—\n(a) be deemed transfer to the President any functions conferred by any existing law on the Government of any Province or other. Authority; or\n(b) prevent the Majlis-e-Shoora (Parliament,) from conferring by law functions on authorities other than the President.\n\n(3) In the performance of his functions under the Constitution. the Prime Minister may act either directly or through the Federal Ministers.\n\n(4) The Prime Minister and the Federal Ministers shall be collectively responsible to the National Assembly."
+    },
+    {
+      "commit": "29a2c35ccfc1f50b4025ffc510adfc24bf149270",
+      "authoredAt": "2010-04-19T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Eighteenth Amendment 2010-04-19 Asif Ali Zardari",
+      "amendmentNumber": 18,
+      "amendmentLabel": "Eighteenth Amendment",
+      "assentDate": "2010-04-19",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | The Federal Government:                                                                     |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 19 April 2010                                                                               |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n\n(1) Subject to the Constitution, the executive authority of the Federation shall be exercised in the name of the President by the Federal Government, consisting of the Prime Minister and the Federal Ministers, which shall act through the Prime Minister, who shall be the chief executive of the Federation.\n\n(2) In the performance of his functions under the Constitution, the Prime Minister may act either directly or through the Federal Ministers."
+    }
+  ]
+}

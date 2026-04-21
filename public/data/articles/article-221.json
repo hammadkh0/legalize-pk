@@ -1,0 +1,57 @@
+{
+  "id": "article-221",
+  "number": 221,
+  "suffix": null,
+  "path": "federal-constitution/article-221.md",
+  "meta": {
+    "title": "Officers and staff.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "08 June 2016",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 18,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/18amendment.html"
+      },
+      {
+        "number": 22,
+        "url": "https://web.archive.org/web/20251127020631/http://www.na.gov.pk/uploads/documents/1463653975_684.pdf"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | Officers and servants.                                                                      |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\nUntil Parliament by law otherwise provides, the Commissioner may, with the approval of the President, make rules providing for the appointment by the Commissioner of officers and servants to be employed in connection with the functions of the Commissioner or an Election Commission and for their terms and conditions of employment.\n"
+    },
+    {
+      "commit": "29a2c35ccfc1f50b4025ffc510adfc24bf149270",
+      "authoredAt": "2010-04-19T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Eighteenth Amendment 2010-04-19 Asif Ali Zardari",
+      "amendmentNumber": 18,
+      "amendmentLabel": "Eighteenth Amendment",
+      "assentDate": "2010-04-19",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Officers and servants.                                                                      |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 19 April 2010                                                                               |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n\nUntil Parliament by law otherwise provides, the Election Commission may, with the approval of the President, make rules providing for the appointment by the Election Commission of officers and servants to be employed in connection with the functions of the Election Commission and for their terms and conditions of employment."
+    },
+    {
+      "commit": "844462f8db036568f97423a5ae3e0625abbc8352",
+      "authoredAt": "2016-06-08T12:00:00Z",
+      "author": "Mamnoon Hussain",
+      "subject": "Twenty-second Amendment 2016-06-08 Mamnoon Hussain",
+      "amendmentNumber": 22,
+      "amendmentLabel": "Twenty-second Amendment",
+      "assentDate": "2016-06-08",
+      "signer": "Mamnoon Hussain",
+      "content": "| Title        | Officers and staff.                                                                        |\n| ------------ | ------------------------------------------------------------------------------------------ |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 08 June 2016                                                                                |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |\n| Amendment 22 | https://web.archive.org/web/20251127020631/http://www.na.gov.pk/uploads/documents/1463653975_684.pdf |\n\nUntil Parliament by law otherwise provides, the Election Commission may, with the approval of the President, make rules providing for the appointment by the Commissioner of officers and staff to be employed in connection with the functions of the Election Commission and for their terms and conditions of employment."
+    }
+  ]
+}

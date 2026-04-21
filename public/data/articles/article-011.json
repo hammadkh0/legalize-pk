@@ -1,0 +1,26 @@
+{
+  "id": "article-011",
+  "number": 11,
+  "suffix": null,
+  "path": "federal-constitution/article-011.md",
+  "meta": {
+    "title": "Slavery, forced labour, etc., prohibited.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "14 August 1973",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": []
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | Slavery, forced labour, etc., prohibited.                                                   |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\n(1) Slavery is non-existent and forbidden and no law shall permit or facilitate its introduction into Pakistan in any form.\n\n(2) All forms of forced labour and traffic in human beings are prohibited.\n\n(3) No child below the age of fourteen years shall be engaged in any factory or mine or any other hazardous employment.\n\n(4) Nothing in this Article shall be deemed to affect compulsory service—\n\n(a) by any person undergoing punishment for an offence against any law ; or\n\n(b) required by any law for public purpose :\nProvided that no compulsory service shall be of a cruel nature or incompatible with human dignity.\n"
+    }
+  ]
+}

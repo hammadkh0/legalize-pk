@@ -1,0 +1,42 @@
+{
+  "id": "article-217",
+  "number": 217,
+  "suffix": null,
+  "path": "federal-constitution/article-217.md",
+  "meta": {
+    "title": "Acting Commissioner.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "08 June 2016",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 22,
+        "url": "https://web.archive.org/web/20251127020631/http://www.na.gov.pk/uploads/documents/1463653975_684.pdf"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | Acting Commissioner.                                                                        |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\nAt any time when—\n(a) the office of Commissioner is vacant, or\n(b) the Commissioner is absent or is unable to perform the functions of his office due to any other cause,\n\na Judge of the Supreme Court nominated by the Chief Justice of Pakistan shall act as Commissioner.\n"
+    },
+    {
+      "commit": "844462f8db036568f97423a5ae3e0625abbc8352",
+      "authoredAt": "2016-06-08T12:00:00Z",
+      "author": "Mamnoon Hussain",
+      "subject": "Twenty-second Amendment 2016-06-08 Mamnoon Hussain",
+      "amendmentNumber": 22,
+      "amendmentLabel": "Twenty-second Amendment",
+      "assentDate": "2016-06-08",
+      "signer": "Mamnoon Hussain",
+      "content": "| Title        | Acting Commissioner.                                                                        |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 08 June 2016                                                                                |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 22 | https://web.archive.org/web/20251127020631/http://www.na.gov.pk/uploads/documents/1463653975_684.pdf |\n\nAt any time when—\n(a) the office of Commissioner is vacant, or\n(b) the Commissioner is absent or is unable to perform the functions of his office due to any other cause,\n\nthe most senior member in age of the members of the Commission shall act as Commissioner."
+    }
+  ]
+}

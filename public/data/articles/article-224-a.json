@@ -1,0 +1,31 @@
+{
+  "id": "article-224-a",
+  "number": 224,
+  "suffix": "a",
+  "path": "federal-constitution/article-224-A.md",
+  "meta": {
+    "title": "Resolution by Committee or Election Commission",
+    "firstAdded": "02 February 2012",
+    "lastUpdated": "02 February 2012",
+    "sourceUrl": "https://pakistani.org/pakistan/constitution/amendments/20amendment.html",
+    "amendments": [
+      {
+        "number": 20,
+        "url": "https://pakistani.org/pakistan/constitution/amendments/20amendment.html"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "8d521d8b4ed1a47cbe67fad306668bb1649b2a29",
+      "authoredAt": "2012-02-28T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twentieth Amendment 2012-02-28 Asif Ali Zardari",
+      "amendmentNumber": 20,
+      "amendmentLabel": "Twentieth Amendment",
+      "assentDate": "2012-02-28",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Resolution by Committee or Election Commission          |\n| ------------ | ---------------------------------- |\n| First Added  | 02 February 2012 |\n| Last Updated | 02 February 2012 |\n| Source       | https://pakistani.org/pakistan/constitution/amendments/20amendment.html |\n| Amendment 20 | https://pakistani.org/pakistan/constitution/amendments/20amendment.html |\n\n(1)\tIn case the Prime Minister and the Leader of the Opposition in the outgoing National Assembly do not agree on any person to be appointed as the care-taker Prime Minister, within three days of the dissolution of the National Assembly, they shall forward two nominees each to a Committee to be immediately constituted by the Speaker of the National Assembly, comprising eight members of the outgoing National Assembly, or the Senate, or both, having equal representation from the Treasury and the Opposition, to be nominated by the Prime Minister and the Leader of the Opposition respectively.\n\n(2)\tIn case a Chief Minister and the Leader of the Opposition in the outgoing Provincial Assembly do not agree on any person to be appointed as the care-taker Chief Minister, within three days of the dissolution of that Assembly, they shall forward two nominees each to a Committee to be immediately constituted by the Speaker of the Provincial Assembly, comprising six members of the outgoing Provincial Assembly having equal representation from the Treasury and the Opposition, to be nominated by the Chief Minister and the Leader of the Opposition respectively.\n\n(3)\tThe Committee constituted under clause (1) or (2) shall finalize the name of the care-taker Prime Minister or care-taker Chief Minister, as the case may be, within three days of the referral of the matter to it:\nProvided that in case of inability of the Committee to decide the matter in the aforesaid period, the names of the nominees shall be referred to the Election Commission of Pakistan for final decision within two days.\n\n(4)\tThe incumbent Prime Minister and the incumbent Chief Minister shall continue to hold office till appointment of the care-taker Prime Minister and the care-taker Chief Minister, as the case may be.\n\n(5)\tNotwithstanding anything contained in clauses (1) and (2), if the members of the Opposition are less than five in the Majlis-e-Shoora (Parliament) and less than four in any Provincial Assembly, then all of them shall be members of the Committee mentioned in the aforesaid clauses and the Committee shall be deemed to be duly constituted."
+    }
+  ]
+}

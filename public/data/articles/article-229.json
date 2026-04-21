@@ -1,0 +1,42 @@
+{
+  "id": "article-229",
+  "number": 229,
+  "suffix": null,
+  "path": "federal-constitution/article-229.md",
+  "meta": {
+    "title": "Reference by Parliament, etc., to Islamic Council.",
+    "firstAdded": "14 August 1973",
+    "lastUpdated": "21 October 2024",
+    "sourceUrl": "https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf",
+    "amendments": [
+      {
+        "number": 26,
+        "url": "https://www.na.gov.pk/uploads/documents/671f74b8da9e0_263.pdf"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commit": "1eab093823230a641e5d6ae8e19197aadffa3269",
+      "authoredAt": "1973-08-14T12:00:00Z",
+      "author": "Zulfikar Ali Bhutto",
+      "subject": "Original Constitution 1973-08-14 Zulfikar Ali Bhutto",
+      "amendmentNumber": 0,
+      "amendmentLabel": "Original Constitution",
+      "assentDate": "1973-08-14",
+      "signer": "Zulfikar Ali Bhutto",
+      "content": "| Title        | Reference by Parliament, etc., to Islamic Council.                                          |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 14 August 1973                                                                              |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n\nThe President or the Governor of a Province may, or if two-fifths of its total membership so requires, a House or a Provincial Assembly shall, refer to the Islamic Council for advice any question as to whether a proposed law is or is not repugnant to the Injunctions of Islam.\n"
+    },
+    {
+      "commit": "599ecf2f28a1f4c65149e341b154acd170cebe20",
+      "authoredAt": "2024-10-21T12:00:00Z",
+      "author": "Asif Ali Zardari",
+      "subject": "Twenty-sixth Amendment 2024-10-21 Asif Ali Zardari",
+      "amendmentNumber": 26,
+      "amendmentLabel": "Twenty-sixth Amendment",
+      "assentDate": "2024-10-21",
+      "signer": "Asif Ali Zardari",
+      "content": "| Title        | Reference by Parliament, etc., to Islamic Council.                                          |\n| ------------ | ------------------------------------------------------------------------------------------- |\n| First Added  | 14 August 1973                                                                              |\n| Last Updated | 21 October 2024                                                                             |\n| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |\n| Amendment 26 | https://www.na.gov.pk/uploads/documents/671f74b8da9e0_263.pdf |\n\nThe President or the Governor of a Province may, or if one-fourth of its total membership so requires, a House or a Provincial Assembly shall, refer to the Islamic Council for advice any question as to whether a proposed law is or is not repugnant to the Injunctions of Islam."
+    }
+  ]
+}
