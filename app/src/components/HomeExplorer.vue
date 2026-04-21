@@ -137,6 +137,12 @@ const lastTouchLabel = (a: ArticleIndexRow) => {
   return last.amendmentLabel;
 };
 
+function lastTouchSigner(a: ArticleIndexRow): string | null {
+  const last = a.versions[a.versions.length - 1];
+  if (!last?.commit) return null;
+  return commitToSigner.value.get(last.commit) ?? null;
+}
+
 function articleHref(id: string) {
   const base = props.baseUrl.endsWith("/") ? props.baseUrl : `${props.baseUrl}/`;
   return `${base}article/${id}/`;
@@ -242,6 +248,10 @@ onBeforeUnmount(() => {
                 <div class="facts__row">
                   <dt>Versions</dt>
                   <dd>{{ a.versions.length }}</dd>
+                </div>
+                <div class="facts__row">
+                  <dt>Signed by</dt>
+                  <dd>{{ lastTouchSigner(a) || "—" }}</dd>
                 </div>
               </dl>
 

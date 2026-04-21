@@ -62,10 +62,10 @@ function homeHref() {
 
 function versionMenuLabel(v: ArticleVersion) {
   if (v.amendmentNumber === 0) {
-    return `Original Constitution · ${formatShortIsoDate(v.assentDate)}`;
+    return `Original Constitution · ${formatShortIsoDate(v.assentDate)}${v.signer ? ` · ${v.signer}` : ""}`;
   }
   const name = v.amendmentLabel ?? "Amendment";
-  return `${name} · ${formatShortIsoDate(v.assentDate)}`;
+  return `${name} · ${formatShortIsoDate(v.assentDate)}${v.signer ? ` · ${v.signer}` : ""}`;
 }
 
 const canCompareToPrevious = computed(() => selectedIdx.value > 0);
@@ -174,6 +174,7 @@ function toggleCompare() {
                     <template v-else>{{ v.amendmentLabel }}</template>
                   </span>
                   <span class="timeline__date">{{ formatShortIsoDate(v.assentDate) }}</span>
+                  <span v-if="v.signer" class="timeline__signer">{{ v.signer }}</span>
                 </button>
               </li>
             </ol>
@@ -411,6 +412,12 @@ function toggleCompare() {
 .timeline__date {
   font-size: var(--step--1);
   color: var(--text-muted);
+}
+
+.timeline__signer {
+  font-size: var(--step--1);
+  color: var(--text-muted);
+  line-height: 1.25;
 }
 
 .compare-wrap {
