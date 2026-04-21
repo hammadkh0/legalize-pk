@@ -30,20 +30,23 @@ jobs:
         with:
           node-version: "22"
           cache: npm
+          cache-dependency-path: app/package-lock.json
 
       - name: Install
+        working-directory: app
         run: npm ci
 
       - name: Build site and data
         env:
           ASTRO_SITE: https://${{ github.repository_owner }}.github.io
           ASTRO_BASE: /${{ github.event.repository.name }}/
+        working-directory: app
         run: npm run build:site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: app/dist
 
   deploy:
     needs: build
