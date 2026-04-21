@@ -102,9 +102,16 @@ function articleMatches(a: ArticleIndexRow): boolean {
     const touched = new Set(
       a.versions.map((v) => v.amendmentNumber).filter((n): n is number => n != null)
     );
+    // OR semantics: show an article if it was touched by *any* selected amendment.
+    // (AND semantics makes results drop to ~0 very quickly.)
+    let anySelected = false;
     for (const n of selectedAmendments.value) {
-      if (!touched.has(n)) return false;
+      if (touched.has(n)) {
+        anySelected = true;
+        break;
+      }
     }
+    if (!anySelected) return false;
   }
 
   if (signatory.value) {
@@ -137,11 +144,7 @@ const lastTouchLabel = (a: ArticleIndexRow) => {
   return last.amendmentLabel;
 };
 
-function lastTouchSigner(a: ArticleIndexRow): string | null {
-  const last = a.versions[a.versions.length - 1];
-  if (!last?.commit) return null;
-  return commitToSigner.value.get(last.commit) ?? null;
-}
+
 
 function articleHref(id: string) {
   const base = props.baseUrl.endsWith("/") ? props.baseUrl : `${props.baseUrl}/`;
@@ -171,7 +174,7 @@ onBeforeUnmount(() => {
           </p>
 
           <fieldset class="fieldset">
-            <legend class="fieldset__legend">Amendments (all selected must apply)</legend>
+            <legend class="fieldset__legend">Amendments (any selected)</legend>
             <div class="checks">
               <label v-for="opt in amendmentOptions" :key="opt.commit" class="check">
                 <input
@@ -248,10 +251,6 @@ onBeforeUnmount(() => {
                 <div class="facts__row">
                   <dt>Versions</dt>
                   <dd>{{ a.versions.length }}</dd>
-                </div>
-                <div class="facts__row">
-                  <dt>Signed by</dt>
-                  <dd>{{ lastTouchSigner(a) || "—" }}</dd>
                 </div>
               </dl>
 
